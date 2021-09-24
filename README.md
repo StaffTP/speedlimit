@@ -1,5 +1,5 @@
-# speedlimit
-a fivem speedlimit script that draws text on your screen.
+# Speedlimit
+A fivem speedlimit script that draws text on your screen.
 
 # How to install
 Download 'speedlimit.rar' from the releases section, Drag into your FXServer's resources folder, Then type `start speedlimit` in your console.
@@ -13,5 +13,5 @@ Alternatively, If you know the basic of any programming language, I'm sure you c
 
 
 # Credits
-BigYoda [speedlimit](https://github.com/Big-Yoda/Posted-Speedlimit)
+BigYoda [speedlimit](https://github.com/Big-Yoda/Posted-Speedlimit),
 Tristan [Edits](https://github.com/StaffTP)
